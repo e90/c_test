@@ -3,8 +3,8 @@
 int main()
 {
 	printf("hello world ! \n");
-	printf("hello c !\n");
 	printf("test 3 !\n");
 	printf("dingrf mybranch test confilict\n");
+	printf("dingrf test 2");
 	return 0;
 }
