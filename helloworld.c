@@ -6,5 +6,9 @@ int main()
 	printf("hello c !\n");
 	printf("test 3 !\n");
 	printf("two_ib test\n");
+	printf("try to make conflict 1\n");
+	printf("try to make conflict 2\n");
+	printf("try to make conflict 3\n");
+	printf("try to make conflict 4\n");
 	return 0;
 }
